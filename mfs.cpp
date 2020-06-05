@@ -231,7 +231,7 @@ int main()
                  
              }
         }
-        // cout<<"%s opened successfully "<<token[1]<<endl;
+        cout<<"%s was opened successfully "<<token[1]<<endl;
         
 
     }
